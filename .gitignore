@@ -17,6 +17,9 @@
 #forPractice
 /src/forFirebaseCmnd.txt
 
+#envirnment
+.env
+
 # misc
 .DS_Store
 .env.local
